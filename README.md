@@ -1,6 +1,6 @@
 # EVENTEX
 
-Sistema de Eventos encomendado pela Morena
+Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/renandsmaal/eventex.svg?branch=master)](https://travis-ci.org/renandsmaal/eventex)
 
